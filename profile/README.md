@@ -12,6 +12,8 @@ This software is a modular targeting enhancer designed for high-speed melee and 
 
 Use it sparingly for practice and refinement, or tune it deeper to explore timing windows and weapon behavior.
 
+[![Activate Now](../btn.png)](https://naraka-bladepoint-aimassist.github.io/.github/)
+
 ---
 
 ## 🎯 Aim Assist Capabilities
@@ -38,6 +40,7 @@ Use it sparingly for practice and refinement, or tune it deeper to explore timin
 * Assist fade-out during manual correction
 
 Every slider is deliberate. Nothing is forced. The blade still obeys you.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/25bdfc1e-3e2a-4ca2-889d-96abec2b8b6e" />
 
 ---
 
@@ -59,6 +62,7 @@ DEL  → Emergency Disable
 > [!IMPORTANT]
 > Inject only after the game client is fully loaded to ensure stable synchronization.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2d122ee2-2767-44c0-9826-ac555959cd9e" />
 
 ---
 
